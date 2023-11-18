@@ -50,6 +50,6 @@ To run this project locally:
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/Ananthuak16/Stock-Market-Analysis.git)
+[Live Demo Link](GitHub Pages or other hosting link)
 
 Feel free to explore, contribute, or use this project as a template for your own stock market analysis web app!

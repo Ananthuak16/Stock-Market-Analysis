@@ -46,10 +46,11 @@ To run this project locally:
 
 ## GitHub Repository
 
-[https://github.com/Ananthuak16/Stock-Market-Analysis.git](GitHub Repository Link)
+The code for this project is hosted on GitHub. You can find it [here](https://github.com/Ananthuak16/Stock-Market-Analysis.git)
 
-## Live Demo
 
-[Live Demo Link](GitHub Pages or other hosting link)
+## Hosting
+
+The application is hosted on GitHub, and you can access it [here](link-to-live-app).
 
 Feel free to explore, contribute, or use this project as a template for your own stock market analysis web app!

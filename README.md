@@ -51,6 +51,6 @@ The code for this project is hosted on GitHub. You can find it [here](https://gi
 
 ## Hosting
 
-The application is hosted on GitHub, and you can access it [here](link-to-live-app).
+The application is hosted on GitHub, and you can access it [here](https://ananthuak16.github.io/Stock-Market-Analysis/).
 
 Feel free to explore, contribute, or use this project as a template for your own stock market analysis web app!

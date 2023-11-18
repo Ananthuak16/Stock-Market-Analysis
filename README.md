@@ -1,4 +1,6 @@
-Stock Market Analysis App
+##Stock Market Analysis App
+
+
 This is a web application for analyzing stock market data. The application fetches stock data, stock profile data, and stock stats data from a specified API and allows users to view charts, details, and statistics for a list of predefined stocks.
 
 Getting Started
@@ -35,6 +37,6 @@ License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Links
-GitHub Repository
-Live Demo
-Feel free to customize this README according to your specific project details. Update placeholders like [repository_link], [your_username], and others with the appropriate values.
+GitHub Repository[https://github.com/Ananthuak16/Stock-Market-Analysis.git]
+Live Demo[]
+Feel free to customize this README according to your specific project details. Update placeholders like [[repository_link](https://github.com/Ananthuak16/Stock-Market-Analysis.git)], [your_username], and others with the appropriate values.
